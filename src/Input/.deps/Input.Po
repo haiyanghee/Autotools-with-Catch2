@@ -1,0 +1,4 @@
+src/Input/Input.o: src/Input/Input.cpp /usr/include/stdc-predef.h \
+ include/testBuild/Input/Input.hpp
+/usr/include/stdc-predef.h:
+include/testBuild/Input/Input.hpp:
