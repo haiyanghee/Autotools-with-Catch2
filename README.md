@@ -7,3 +7,5 @@ Then run `../configure` to generate the makefiles based on your `Makefile.am` (n
 Now the makefile should be ready, so to compile the program just type `make`. Then you will see the `hello` binary.
 
 You also want to run the tests, so just type `make check` (the main for catch2 takes some time to compile at first, just wait patiently). Then you should see that all test cases will pass. If there is a failed case you can see the log at `test-suit.log`.
+
+A good reference to learn this would be https://www.gnu.org/savannah-checkouts/gnu/automake/manual/automake.html .
