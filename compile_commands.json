@@ -1,0 +1,109 @@
+[
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I..",
+            "-I../include",
+            "-I../tests/framework/catch2",
+            "-g",
+            "-O2",
+            "-o",
+            "tests/Input/inputTest-Input_test.o",
+            "../tests/Input/Input_test.cpp"
+        ],
+        "directory": "/home/haiyang/Autotools-with-Catch2/build",
+        "file": "../tests/Input/Input_test.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I..",
+            "-I../include",
+            "-I../tests/framework/catch2",
+            "-g",
+            "-O2",
+            "-o",
+            "tests/Poly/polyTest-Poly_test.o",
+            "../tests/Poly/Poly_test.cpp"
+        ],
+        "directory": "/home/haiyang/Autotools-with-Catch2/build",
+        "file": "../tests/Poly/Poly_test.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I..",
+            "-I../include",
+            "-g",
+            "-O2",
+            "-o",
+            "src/hello-main.o",
+            "../src/main.cpp"
+        ],
+        "directory": "/home/haiyang/Autotools-with-Catch2/build",
+        "file": "../src/main.cpp"
+    }
+,
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I..",
+            "-I../include",
+            "-I../tests/framework/catch2",
+            "-g",
+            "-O2",
+            "-o",
+            "tests/Input/inputTest-Input_test.o",
+            "../tests/Input/Input_test.cpp"
+        ],
+        "directory": "/home/haiyang/Autotools-with-Catch2/build",
+        "file": "../tests/Input/Input_test.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I..",
+            "-I../include",
+            "-I../tests/framework/catch2",
+            "-g",
+            "-O2",
+            "-o",
+            "tests/Poly/polyTest-Poly_test.o",
+            "../tests/Poly/Poly_test.cpp"
+        ],
+        "directory": "/home/haiyang/Autotools-with-Catch2/build",
+        "file": "../tests/Poly/Poly_test.cpp"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-DHAVE_CONFIG_H",
+            "-I.",
+            "-I..",
+            "-I../include",
+            "-g",
+            "-O2",
+            "-o",
+            "src/hello-main.o",
+            "../src/main.cpp"
+        ],
+        "directory": "/home/haiyang/Autotools-with-Catch2/build",
+        "file": "../src/main.cpp"
+    }
+]
